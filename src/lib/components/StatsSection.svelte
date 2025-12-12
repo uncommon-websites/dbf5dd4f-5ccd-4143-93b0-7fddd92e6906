@@ -1,24 +1,24 @@
 <script lang="ts">
   const stats = [
     {
-      label: "30+ People",
-      desc: "You're a small, but mighty team of curious problem-solvers and explorers. With a versatile, Swiss-knife mentality, we thrive on tackling diverse challenges. Our core team is tight-knit, yet we seamlessly tap into a wider network of experts when needed. Here, theory meets practice, and together, we get things done.",
-      img: "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?auto=format&fit=crop&q=80&w=200"
+      label: "2-4 Week Sprints",
+      desc: "Most growth-stage tech companies complete their Growth Engine Sprint in 2-4 weeks. We move fast with a strategic workshop, design system, complete Webflow build, and team training—all within a month. Your timeline flexes based on feedback turnaround, but we're ready when you are.",
+      img: "/generated/image-calendar-with-sprint-timeline-marked-cle-1765565075416-0.webp"
     },
     {
-      label: "14+ Awards",
-      desc: "Our work speaks for itself—recognized internationally, we've already earned some awards. These accolades reflect the passion and innovation we pour into every project, pushing boundaries and delivering results that make an impact.",
-      img: "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&q=80&w=200"
+      label: "$15k-$25k Range",
+      desc: "Growth Engine Sprints start at $15k, with most growth-stage tech companies falling in the $15k-$25k range. You get strategic workshop, 5 core pages, complete Webflow build with marketing autonomy framework, training, and lifetime resource access. Month-to-month retainers also available starting at $4,750.",
+      img: "/generated/image-professional-handshake-or-contract-signi-1765565077757-1.webp"
     },
     {
-      label: "CGN, BLN, Remote",
-      desc: "Headquartered in Cologne, with an expanding team in Berlin, we also embrace remote work. Our colleagues span across cities like Barcelona, Stuttgart, Munich, and more, bringing a mix of perspectives and expertise to everything we do. Whether in the office or working remotely, we stay connected and collaborative.",
-      img: "https://images.unsplash.com/photo-1497366216548-37526070297c?auto=format&fit=crop&q=80&w=200"
+      label: "2-3x to 12x+ Conversions",
+      desc: "Our conversion framework is built on user psychology principles tested across hundreds of B2B websites. While results vary by baseline, clients report conversion improvements ranging from 2-3x to 12x+ depending on their starting point. We focus on measurable outcomes, not vanity metrics.",
+      img: "/generated/image-upward-trending-graph-or-chart-showing-g-1765565080219-2.webp"
     },
     {
-      label: "B-Corp",
-      desc: "We've officially joined the ranks of B-Corp certified companies. This means we meet the highest standards of social and environmental performance, accountability, and transparency. We're proud to use business as a force for good, ensuring our impact extends beyond just profit.",
-      img: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/B_Corp_Logo.svg/1200px-B_Corp_Logo.svg.png" // Placeholder
+      label: "1-2 Week Autonomy",
+      desc: "Your marketing team operates independently within 1-2 weeks after launch. Our proprietary framework makes Webflow accessible to non-technical marketers with component-based systems and CMS structures. No more waiting weeks for simple changes—your team moves at the speed of your business.",
+      img: "/generated/image-marketing-professional-confidently-worki-1765565082476-3.webp"
     }
   ];
 </script>
@@ -26,7 +26,7 @@
 <section class="py-24 px-6 md:px-12 bg-white border-t border-gray-100">
   <div class="mb-16">
     <p class="text-gray-500 max-w-xl">
-      Curious about who we are? Here's a snapshot of the team, our achievements, and the milestones we're proud of.
+      Real numbers from real clients. Here's what you can expect when working with Nube.
     </p>
   </div>
 

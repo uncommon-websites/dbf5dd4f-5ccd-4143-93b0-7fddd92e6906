@@ -1,54 +1,54 @@
 <script lang="ts">
   const projects = [
     {
-      client: "Red Bull",
-      desc: "A global platform built to Scale, Evolve, and Perform.",
-      bg: "bg-[#000c2d]",
-      img: "", // Placeholder logic handled in template
+      client: "American Bitcoin",
+      desc: "NASDAQ debut website that positions a Bitcoin company for public markets.",
+      bg: "bg-[#0a0a0a]",
+      img: "/generated/image-modern-fintech-website-interface-on-lapt-1765564944489-0.webp", 
       dark: true
     },
     {
-      client: "Volvo",
-      desc: "Redefining how people experience insurance.",
-      bg: "bg-gray-200",
-      img: "https://images.unsplash.com/photo-1556742049-0cfed4f7a07d?auto=format&fit=crop&q=80&w=800",
+      client: "XFX",
+      desc: "Growth-stage website supporting a $9.1M seed round for a tech startup.",
+      bg: "bg-gray-100",
+      img: "/generated/image-sleek-fintech-dashboard-interface-on-mul-1765565084744-4.webp",
       dark: false
     },
     {
-      client: "The Organics",
-      desc: "Translating a refreshing identity into a bold platform.",
-      bg: "bg-[#8da356]",
-      img: "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?auto=format&fit=crop&q=80&w=800",
+      client: "Rare Origins",
+      desc: "Sophisticated web presence for a single-family investment firm.",
+      bg: "bg-[#1a1a1a]",
+      img: "/generated/image-elegant-investment-firm-website-on-deskt-1765564947280-1.webp",
+      dark: true
+    },
+    {
+      client: "Flychain",
+      desc: "Conversion-optimized platform for healthcare financial services.",
+      bg: "bg-gray-50",
+      img: "/generated/image-healthcare-technology-interface-with-cle-1765565087075-5.webp",
       dark: false
     },
     {
-      client: "Isar Aerospace",
-      desc: "Launching a brand journey into orbit.",
-      bg: "bg-black",
+      client: "CommerceRoad",
+      desc: "Strategic website for an eCommerce borrowing platform.",
+      bg: "bg-[#f8f8f8]",
+      img: "/generated/image-modern-ecommerce-platform-interface-show-1765565089290-6.webp",
+      dark: false,
+      full: true
+    },
+    {
+      client: "Movi Partners",
+      desc: "Professional web system for a venture capital firm.",
+      bg: "bg-gray-100",
+      img: "/generated/image-venture-capital-office-with-modern-desig-1765565091510-7.webp",
+      dark: false
+    },
+    {
+      client: "Dante AI",
+      desc: "Long-term partnership delivering ongoing website optimization and autonomy.",
+      bg: "bg-[#0a0a0a]",
       img: "",
       dark: true
-    },
-    {
-      client: "REWE",
-      desc: "Digital Convenience in your Pocket.",
-      bg: "bg-[#f0f0f0]",
-      img: "https://images.unsplash.com/photo-1512428559087-560fa5ce7d87?auto=format&fit=crop&q=80&w=800",
-      dark: false,
-      full: true // Making REWE full width to align last two items
-    },
-    {
-      client: "Alpha Tauri",
-      desc: "Designing the interface of wearable intelligence.",
-      bg: "bg-[#e0e0e0]",
-      img: "https://images.unsplash.com/photo-1551650975-87deedd944c3?auto=format&fit=crop&q=80&w=800",
-      dark: false
-    },
-    {
-      client: "Zalando",
-      desc: "Designing the Zalando E-Commerce Operating System.",
-      bg: "bg-[#d8c5f0]",
-      img: "https://images.unsplash.com/photo-1555421689-49263376da7a?auto=format&fit=crop&q=80&w=800",
-      dark: false
     }
   ];
 </script>
@@ -56,7 +56,7 @@
 <section class="px-6 md:px-12 py-24 bg-white">
   <div class="max-w-3xl mb-16">
     <h2 class="text-2xl md:text-3xl font-medium leading-tight">
-      <span class="font-bold">We orchestrate strategy, design, and technology</span> to create digital experiences that connect with millions and give you the edge that sets you apart.
+      <span class="font-bold">We transform underperforming websites into conversion systems</span> that growth-stage tech companies can operate autonomously—no developer dependencies, no bottlenecks.
     </h2>
   </div>
 

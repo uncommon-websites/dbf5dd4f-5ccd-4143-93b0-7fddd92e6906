@@ -1,19 +1,19 @@
 <script lang="ts">
   const cards = [
     {
-      title: "We're Not Just a Vendor...",
-      subtitle: "We're Your Partner In Crime.",
-      image: "https://images.unsplash.com/photo-1522071820081-009f0129c71c?auto=format&fit=crop&q=80&w=800"
+      title: "Marketing Teams Shouldn't Wait...",
+      subtitle: "They Should Move Fast.",
+      image: "/generated/image-marketing-team-collaborating-around-a-la-1765564917480-0.webp"
     },
     {
-      title: "We Don't Just Follow Trends...",
-      subtitle: "We Shape New Territories.",
-      image: "https://images.unsplash.com/photo-1531482615713-2afd69097998?auto=format&fit=crop&q=80&w=800"
+      title: "Websites Shouldn't Be Bottlenecks...",
+      subtitle: "They Should Be Growth Assets.",
+      image: "/generated/image-close-up-of-a-laptop-screen-showing-webs-1765564920642-1.webp"
     },
     {
-      title: "We Don't Play By The Book...",
-      subtitle: "We Write It Together.",
-      image: "https://images.unsplash.com/photo-1552664730-d307ca884978?auto=format&fit=crop&q=80&w=800"
+      title: "You Don't Need More Developers...",
+      subtitle: "You Need Marketing Autonomy.",
+      image: "/generated/image-confident-marketing-professional-working-1765564922953-2.webp"
     }
   ];
 </script>
@@ -21,7 +21,7 @@
 <section class="py-24 px-6 md:px-12 bg-white">
   <div class="max-w-2xl mb-16">
     <p class="text-xl md:text-2xl leading-relaxed text-gray-800">
-      Collaboration isn't just a buzzword—it's how we roll. We're not here to hand off some cookie-cutter deliverable and disappear; we're in it with you, from day one.
+      We give marketing teams their time back. No more waiting weeks for simple changes. No more developer dependencies. Just a website system you can operate autonomously.
     </p>
   </div>
 

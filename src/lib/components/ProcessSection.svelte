@@ -3,31 +3,31 @@
 
   const steps = [
     {
-      id: "discover",
-      title: "Discover Novel Opportunities",
-      text: "The right problem is the one worth solving. We quickly uncover actionable opportunities through data and business insights, ensuring that every discovery is grounded in what matters most for your business and your users.",
-      tags: ["Business & Market Research", "Data Driven Insights", "UX Audits", "Customer Journey Mapping", "Brand Perception Analysis", "Technical Assessment"],
+      id: "strategy",
+      title: "Strategic Workshop & Framework",
+      text: "We start with a conversion-focused workshop to understand your business, audience, and goals. Using our proprietary framework built on user psychology principles tested across hundreds of B2B websites, we map out exactly what your website needs to convert.",
+      tags: ["Conversion Framework", "User Psychology Principles", "Business Goals Alignment", "Audience Research", "Competitive Analysis", "Success Metrics Definition"],
       graphic: "lines"
     },
     {
-      id: "envision",
-      title: "Envision Innovative Strategies",
-      text: "Great strategies don't just come from ideas—they come from clear, actionable plans. We create pragmatic roadmaps that balance ambition with feasibility, focusing on what will drive immediate and long-term impact for both business and users.",
-      tags: ["CX & Product Strategy", "Vision & Roadmapping", "Value Proposition Design", "Northstar Metric Framework", "Brand Strategy & Positioning", "Technical Solution Design"],
+      id: "design",
+      title: "5-Page Core System Design",
+      text: "We design your essential pages—homepage, product/service, about, case studies, and contact—with mid-fidelity structures first, then high-fidelity designs. Every element is optimized for conversion, not just aesthetics.",
+      tags: ["Homepage Design", "Product/Service Pages", "About & Case Studies", "Contact & CTA Design", "Conversion Optimization", "Brand-Aligned Visuals"],
       graphic: "curve"
     },
     {
       id: "build",
-      title: "Build Engaging Touchpoints",
-      text: "We turn strategy into action—fast and efficiently. Whether designing intuitive interfaces, visual identities, or building scalable platforms, we focus on building holistic experiences that are both joyful and effective.",
-      tags: ["UX & UI Design", "Information Architecture", "App & Web Design", "Design Systems", "Content Strategy", "Agile Software Engineering"],
+      title: "Webflow Build with Autonomy Framework",
+      text: "We build your website in Webflow using our proprietary marketing autonomy framework—think of it as 'Webflow with training wheels.' Component-based systems and CMS structures that eliminate developer dependencies forever.",
+      tags: ["Webflow Development", "Component-Based System", "CMS Architecture", "Marketing Autonomy Framework", "Enterprise Capability", "Consumer-Level Ease"],
       graphic: "circle-top"
     },
     {
-      id: "elevate",
-      title: "Elevate Delivery Capabilities",
-      text: "We make sure teams can deliver better outcomes, faster. By evolving collaborative workflows, upskilling teams, and implementing the right tools, we help you scale with confidence and consistency.",
-      tags: ["AI Consulting", "QA & Delivery", "Process Optimization", "Performance Analytics", "Continuous Improvement", "Change Management"],
+      id: "launch",
+      title: "Training, Launch & Enablement",
+      text: "We deliver a complete hand-off with 60-minute training, lifetime resource library access, documentation, and 30 days of technical support. Your team operates independently within 1-2 weeks—no more waiting on developers.",
+      tags: ["Team Training Workshop", "Resource Library Access", "Complete Documentation", "30-Day Technical Support", "Marketing Autonomy", "Same-Day Launch Capability"],
       graphic: "circle-waves"
     }
   ];
@@ -63,7 +63,7 @@
   });
 </script>
 
-<section class="bg-[#1a1a40] text-white py-24 px-6 md:px-12 relative" bind:this={sectionRef}>
+<section class="bg-[#0a0a0a] text-white py-24 px-6 md:px-12 relative" bind:this={sectionRef}>
   <div class="max-w-screen-2xl mx-auto flex flex-col md:flex-row gap-12">
     
     <!-- Sticky Navigation -->
@@ -71,7 +71,7 @@
       <div class="space-y-8">
         {#each steps as step, i}
           <div class="transition-opacity duration-500 {i === activeStep ? 'opacity-100' : 'opacity-30'}">
-            <p class="text-xl md:text-2xl font-light mb-1">People work with us to</p>
+            <p class="text-xl md:text-2xl font-light mb-1">The Growth Engine Sprint</p>
             <h2 class="text-2xl md:text-3xl font-bold">{step.title}</h2>
           </div>
         {/each}

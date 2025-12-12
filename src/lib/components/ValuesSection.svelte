@@ -1,28 +1,28 @@
 <script lang="ts">
   const photos = [
     {
-      title: "Fitness Meets Work",
-      desc: "Stay healthy with our dedicated gym and personal training part of our employee wellness program.",
-      img: "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?auto=format&fit=crop&q=80&w=400"
+      title: "Complete Training & Resources",
+      desc: "60-minute post-launch workshop, lifetime resource library access, complete documentation, and 30 days of technical support.",
+      img: "/generated/image-modern-tech-startup-office-with-clean-de-1765564925193-3.webp"
     },
     {
-      title: "Your Social Hub",
-      desc: "Located in vibrant city centers, our offices are places for connection and face-to-face collaboration.",
-      img: "https://images.unsplash.com/photo-1527192491265-7e15c55b1ed2?auto=format&fit=crop&q=80&w=400"
+      title: "Component-Based Systems",
+      desc: "Enterprise-level capability with consumer-level ease. Build new pages in hours, not weeks, using our proprietary framework.",
+      img: "/generated/image-designer-working-on-component-based-webs-1765564927471-4.webp"
     },
     {
-      title: "Fueling Creativity",
-      desc: "We care about good food—our in-house chef ensures everyone stays energized and inspired.",
-      img: "https://images.unsplash.com/photo-1511632765486-a01980e01a18?auto=format&fit=crop&q=80&w=400"
+      title: "Strategic Partnership Options",
+      desc: "Need ongoing support? Growth Partnership retainers start at $4,750/month with 3-month minimum for teams wanting continued strategic guidance.",
+      img: "/generated/image-strategic-business-meeting-between-consu-1765564929737-5.webp"
     }
   ];
 </script>
 
 <section class="py-24 px-6 md:px-12 bg-white">
   <div class="max-w-xl mb-16">
-    <h3 class="text-lg font-bold mb-2">We focus on people, not just projects.</h3>
+    <h3 class="text-lg font-bold mb-2">Everything you need for marketing autonomy.</h3>
     <p class="text-gray-500 text-sm leading-relaxed">
-      In a world of digital meetings, we value face-to-face connections. Our culture is built on trust, freedom, and support, fostering personal growth and collaboration that goes beyond just completing tasks—it's about enjoying the journey together.
+      We don't just build websites and disappear. Every sprint includes comprehensive training, resources, and support to ensure your team can operate independently and confidently from day one.
     </p>
   </div>
 
